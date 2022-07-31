@@ -1,4 +1,4 @@
-# just-for-the-readme
+# Danh sách mod stardew valley dành cho những người chơi pacify XD
 ## Một số điều cần Lưu ý nếu mấy bồ chưa bik:
 - **Các Framworks là mấy cái mod ko thể thiếu được**
 
