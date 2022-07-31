@@ -3,8 +3,8 @@
 - **Các Framworks là mấy cái mod ko thể thiếu được**
 
 
-- [Link này dẫn tới link down hết 4 mod framwork cần cho mấy mod đồ họa]()
-- [Đây là link tải tất cả mod r về lựa dành cho những đứa lười]()
+- [Link này dẫn tới link down hết 4 mod framwork cần cho mấy mod đồ họa](https://drive.google.com/file/d/1B5nwpI-d-A3PPdPs4znIjNxilGPZMnoX/view?usp=sharing)
+- [Đây là link tải tất cả mod r về lựa dành cho những đứa lười](https://drive.google.com/file/d/1dsxko_BBU7DIw9ZUYyWecyrnilr9rXyb/view?usp=sharing)
 - Mỗi mod cần 1 mod framwork thôi nhưng tải hết cho chắc :vv
 - Cái gì cũng có cái giá của nó XD, tải nhiều quá là load chậm + lỗi ráng chịu XD (chắc tầm dưới 70-80mb đc r :v)
 - Nhớ đọc kỹ, tải mấy cái trùng nhau khéo conflict ( Dù lúc tui test thì ko bị)
